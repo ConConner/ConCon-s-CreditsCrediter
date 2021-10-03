@@ -1,12 +1,7 @@
 ConCon's Credits Crediter 1.1
 -----------------------------
-RELEASED: 01.09.2021
-	  DD.MM.YYYY
------------------------------
 
-
-
-TUTORIAL:
+## TUTORIAL:  
 With this tool you can easily edit the credits of Metroid: Zero Mission and Fusion, without
 a HEX editor. All can be done through a .txt file and the program.
 
@@ -47,17 +42,17 @@ a HEX editor. All can be done through a .txt file and the program.
 
 
 Line Markers:
- 00 - small, blue text
- 01 - small, red text
- 02 - big, white text
- 03 - small, white text
- 05 - small line break
- 06 - end credits
+ * 00 - small, blue text
+ * 01 - small, red text
+ * 02 - big, white text
+ * 03 - small, white text
+ * 05 - small line break
+ * 06 - end credits
  
- 0A - All rights, including
- 0B - the copyrights of Game,
- 0C - Scenario, Music and Program,
- 0D - reserved by NINTENDO.
+ * 0A - All rights, including
+ * 0B - the copyrights of Game,
+ * 0C - Scenario, Music and Program,
+ * 0D - reserved by NINTENDO.
 
 
 
@@ -65,6 +60,6 @@ Line Markers:
 
 
 
-Discord: https://discord.gg/NK93wpbfBg
-	 Conner#4315
+Discord: https://discord.gg/NK93wpbfBg  
+Conner#4315  
 E-Mail : contendohelp@gmail.com

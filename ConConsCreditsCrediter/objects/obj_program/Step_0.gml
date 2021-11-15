@@ -43,7 +43,7 @@ function import_credits() {
 		}
 		
 		//fail-save if there is no actual end in credits
-		buffer_poke(_ROM, hex_to_dec(credits_end - 1), buffer_u8, 6);
+		buffer_poke(_ROM, hex_to_dec(credits_end) - 1, buffer_u8, 6);
 		
 
 		file_text_close(_txt);

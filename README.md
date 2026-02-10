@@ -1,3 +1,7 @@
+# IMPORTANT
+ConCon's Credits Crediter is now obselete. A Credits Editor has been implemented into [MAGE Themes](https://github.com/ConConner/MAGE-Themes/releases), a modern fork of the Metroid Advance Game Editor.  
+The feature set of the integrated Credits Editor surpasses that of ConCon's Credits Crediter.
+
 ConCon's Credits Crediter 1.1
 -----------------------------
 
